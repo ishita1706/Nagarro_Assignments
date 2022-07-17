@@ -2,7 +2,7 @@
     background-color: rgb(53, 170, 158);
     height: 350px;
     width: 700px;
-    visibility: visible; 
+   display:none;
 }
 
 body {
